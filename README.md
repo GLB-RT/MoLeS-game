@@ -31,4 +31,4 @@ I will keep it here just for fun.
 
 #### Why not make something cooler or something more useful?
 
-<img src="https://ih1.redbubble.net/image.4987525800.8884/mp,840x830,matte,f8f8f8,t-pad,1000x1000,f8f8f8.u2.jpg"/>
+<img src="https://ih1.redbubble.net/image.4987525800.8884/mp,840x830,matte,f8f8f8,t-pad,1000x1000,f8f8f8.u2.jpg" height="320" width="320"/>
