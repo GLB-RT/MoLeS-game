@@ -8,7 +8,6 @@ Made that just for some practice and archived for future myself
 - Dark mode only
 - Fullscreen mode
 - Cool text in command line
-- 
 
 ## Bonus notes
 
